@@ -1,0 +1,191 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly to page`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#E6E6FA",
+      "flex": 1,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#708090",
+        "fontSize": 30,
+        "marginTop": 25,
+        "textAlign": "center",
+      }
+    }
+  >
+     Calcule seu IMC 
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    keyboardType="numeric"
+    onChangeText={[Function]}
+    placeholder="Peso (kg)"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "backgroundColor": "#363636",
+        "borderRadius": 10,
+        "color": "#FFF",
+        "fontSize": 20,
+        "margin": 15,
+        "padding": 10,
+      }
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <TextInput
+    allowFontScaling={true}
+    keyboardType="numeric"
+    onChangeText={[Function]}
+    placeholder="Altura (cm)"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "backgroundColor": "#363636",
+        "borderRadius": 10,
+        "color": "#FFF",
+        "fontSize": 20,
+        "margin": 15,
+        "padding": 10,
+      }
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#191970",
+        "justifyContent": "center",
+        "margin": 15,
+        "opacity": 1,
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFF",
+          "fontSize": 25,
+          "margin": 15,
+        }
+      }
+    >
+      Calcular
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`renders correctly to page 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#E6E6FA",
+      "flex": 1,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#708090",
+        "fontSize": 30,
+        "marginTop": 25,
+        "textAlign": "center",
+      }
+    }
+  >
+     Calcule seu IMC 
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    keyboardType="numeric"
+    onChangeText={[Function]}
+    placeholder="Peso (kg)"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "backgroundColor": "#363636",
+        "borderRadius": 10,
+        "color": "#FFF",
+        "fontSize": 20,
+        "margin": 15,
+        "padding": 10,
+      }
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <TextInput
+    allowFontScaling={true}
+    keyboardType="numeric"
+    onChangeText={[Function]}
+    placeholder="Altura (cm)"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "backgroundColor": "#363636",
+        "borderRadius": 10,
+        "color": "#FFF",
+        "fontSize": 20,
+        "margin": 15,
+        "padding": 10,
+      }
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#191970",
+        "justifyContent": "center",
+        "margin": 15,
+        "opacity": 1,
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFF",
+          "fontSize": 25,
+          "margin": 15,
+        }
+      }
+    >
+      Calcular
+    </Text>
+  </View>
+</View>
+`;
